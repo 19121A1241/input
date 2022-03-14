@@ -1,0 +1,14 @@
+{
+  "name": "fsd",
+  "version": "1.0.0",
+  "description": "my first program to read a string and return it",
+  "main": "input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "input"
+  ],
+  "author": "myself",
+  "license": "ISC"
+}
